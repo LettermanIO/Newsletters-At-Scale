@@ -7,10 +7,12 @@ by Malcolm Diggs
 ## Table of Contents
 
 ### Front Matter
+* [Title Page](/Front%20Matter/Title.md)
+* [Copyright](/Front%20Matter/Copyright.md)
 * [Dedication](/Front%20Matter/Dedication.md)
-* About the Author
-* Preface
-* Introduction
+* [About the Author](/Front%20Matter/Author.md)
+* [Preface](/Front%20Matter/Preface.md)
+* [Introduction](/Front%20Matter/Introduction.md)
 
 
 ### Section I: Email Fundamentals
