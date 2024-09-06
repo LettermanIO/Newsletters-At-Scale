@@ -1,0 +1,9 @@
+.tmp
+*~
+*#
+.DS_STORE
+.netbeans
+nbproject
+.idea
+*.iml
+.vscode
