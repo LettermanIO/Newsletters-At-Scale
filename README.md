@@ -7,7 +7,7 @@ by Malcolm Diggs
 ## Table of Contents
 
 ### Front Matter
-* [Dedication](/Front Matter/Dedication.md)
+* [Dedication](/Front%20Matter/Dedication.md)
 * About the Author
 * Preface
 * Introduction
